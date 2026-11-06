@@ -1,0 +1,34 @@
+header {
+    background-color: #1F3557;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+nav {
+    background-color: #E9EDF2;
+    text-align: center;
+    padding: 15px;
+}
+
+nav span {
+    color: #1F3557;
+    margin: 0 25px;
+    font-weight: bold;
+}
+
+nav span:first-child {
+    background-color: #1F3557;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}

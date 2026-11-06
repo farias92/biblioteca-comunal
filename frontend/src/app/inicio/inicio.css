@@ -1,0 +1,20 @@
+section {
+    background-color: #828A94;
+    color: white;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+.disponible {
+    color: #B5EC57;
+    font-weight: bold;
+}
